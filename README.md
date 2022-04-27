@@ -1,5 +1,5 @@
 # Sala Shane Discord Stream Bot
-**Sala Shane** is a _Discord Music Bot_ written in Javascript that streams songs via chosen genre in command `/`/select`.
+**Sala Shane** is a _Discord Music Bot_ written in Javascript that streams songs via command `/select`.
 
 # Commands
 
