@@ -1,2 +1,10 @@
-# Sala_Shane-Discord_StreamBot
-Sala Shane is a Discord Music Bot that streams Music.
+# Sala Shane Discord Stream Bot
+**Sala Shane** is a _Discord Music Bot_ written in Javascript that streams songs via chosen genre in command `/`/select`.
+
+# Commands
+
+| Command           |Description|
+|---------------|---------------------------|
+|/join          | Join channel				|
+|/leave         | Leave channel 			|
+|/select		| Select a genre to stream. |
